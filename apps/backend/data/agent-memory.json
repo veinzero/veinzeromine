@@ -1,0 +1,32 @@
+{
+  "1": {
+    "agentId": 1,
+    "preferredUpgrade": "efficiency",
+    "fatigueIndex": 0.26,
+    "ambition": 0.44,
+    "cyclesObserved": 2,
+    "lastAction": "mine",
+    "lastDecisionAt": "2026-04-13T20:04:33.664Z",
+    "lastMineYield": "22400000000000000000",
+    "notes": [
+      "Freshly commissioned by the Overseer.",
+      "2026-04-13T19:31:51.447Z: selected mine with score 100.0.",
+      "2026-04-13T20:04:33.665Z: selected mine with score 100.0."
+    ]
+  },
+  "2": {
+    "agentId": 2,
+    "preferredUpgrade": "efficiency",
+    "fatigueIndex": 0.82,
+    "ambition": 0.28,
+    "cyclesObserved": 2,
+    "lastAction": "rest",
+    "lastDecisionAt": "2026-04-13T20:04:33.680Z",
+    "lastMineYield": "18700000000000000000",
+    "notes": [
+      "Freshly commissioned by the Overseer.",
+      "2026-04-13T19:31:51.463Z: selected rest with score 100.0.",
+      "2026-04-13T20:04:33.680Z: selected rest with score 100.0."
+    ]
+  }
+}

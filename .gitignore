@@ -1,0 +1,15 @@
+node_modules
+.next
+dist
+coverage
+artifacts
+cache
+typechain-types
+out
+.turbo
+.env
+.env.local
+.env.*.local
+apps/backend/data/*.runtime.json
+yarn.lock
+pnpm-lock.yaml
