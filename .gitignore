@@ -7,7 +7,14 @@ cache
 typechain-types
 out
 .turbo
+.codex-runtime/
 .env
+.env.example
+.env.local.example
+**/.env
+**/.env.example
+**/.env.local
+**/.env.local.example
 .env.local
 .env.*.local
 apps/backend/data/*.runtime.json
